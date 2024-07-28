@@ -9,6 +9,9 @@ This project is a simple web app running on AWS with Docker compose. The app all
 - **Database:** PostgreSQL
 - **Additional Login:** QRCode
 
+## VPS connection (SSH user / password) ของ IP Address ที่ทำงานได้
+ssh -i "CT648.pem" ubuntu@ec2-44-223-77-133.compute-1.amazonaws.com
+
 ## How to Run
 1. **Clone the repository:**
 ```sh
